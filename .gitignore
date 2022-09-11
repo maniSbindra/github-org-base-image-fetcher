@@ -1,0 +1,11 @@
+temp.txt
+files.json
+distinctContainerImages.txt
+containerImageFiles.json
+container-image-files-old.json
+.DS_Store
+bkp/
+*.json
+.env
+main
+.vscode/launch.json
