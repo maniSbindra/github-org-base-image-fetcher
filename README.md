@@ -1,6 +1,6 @@
 # github-org-base-image-fetcher
 
-Base Image Fetcher is a golang cli utility which can be used to fetch names of base container images used across repositories in a Github organization or a specific repository in the organization. 
+Base Image Fetcher is a golang cli utility which can be used to fetch names of base container images used across repositories in a Github organization or a specific repository in the organization. The container image names can then be fed into a vulnerability scanning tool like trivy (Issue [#1](https://github.com/maniSbindra/github-org-base-image-fetcher/issues/1) open for this feature).
 
 # Utility in action
 
